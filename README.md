@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Duplich</h1>
+<h1 align="left">Hi 👋, I'm Duplich - Jasmin Causevic</h1>
 <p align="left">Senior Frontend Developer, with main focus on JavaScript/TypeScript & Headless Wordpress</p>
 <hr/>
 <h4 align="left">My Tech Stack:</h3>
